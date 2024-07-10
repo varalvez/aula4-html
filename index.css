@@ -1,0 +1,17 @@
+*{
+box-sizing: border-box;
+}
+form{
+    width: 400px; 
+    border: 1px solid #dedede;
+}
+form label{
+    display: block;
+}
+form input{
+    width: 75%;
+display: block;
+}
+form button{
+    
+}
